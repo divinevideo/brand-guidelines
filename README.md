@@ -1,6 +1,12 @@
-# diVine Brand Guidelines
+# Divine Brand Guidelines
 
-Brand guidelines for diVine, translated from the official brand PDFs (January 2026).
+Brand guidelines for Divine, translated from the official brand PDFs (January 2026).
+
+## Brand Name Casing
+
+Use **Divine** as the default product and company name in public copy, App Store / Play Store metadata, press, product UI, documentation, and agent responses.
+
+Use **diVine** only when referring to the stylized logotype itself or when reproducing a source asset that explicitly uses that mark.
 
 ## Files
 
