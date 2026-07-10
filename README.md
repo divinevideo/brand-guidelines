@@ -1,6 +1,10 @@
-# diVine Brand Guidelines
+# Divine Brand Guidelines
 
-Brand guidelines for diVine, translated from the official brand PDFs (January 2026).
+Brand guidelines for Divine, translated from the official brand PDFs (January 2026).
+
+## Brand Name
+
+Always write the brand name as **Divine** — capital D, lowercase rest. Do **not** write it as "DiVine" or "diVine" in any text (copy, headings, UI, docs, code, commit messages). The stylized capital "V" is a feature of the logotype artwork only and never carries into written text.
 
 ## Files
 
