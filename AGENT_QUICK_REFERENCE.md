@@ -1,12 +1,18 @@
-# diVine Brand Quick Reference for AI Agents
+# Divine Brand Quick Reference for AI Agents
 
 Use this as a fast lookup when writing copy, designing UI, or making product decisions.
 
 ---
 
+## Brand Name (read first)
+
+Always write the name as **Divine** — capital D, lowercase rest. Never "DiVine" or "diVine" in text. The stylized "V" only exists in the logotype artwork, never in written copy, UI, docs, or code.
+
+---
+
 ## One-Line Summary
 
-diVine is a decentralized short-form video app reviving Vine's 6-second format, built on Nostr, championing human creativity over AI slop.
+Divine is a decentralized short-form video app reviving Vine's 6-second format, built on Nostr, championing human creativity over AI slop.
 
 ## Purpose
 
