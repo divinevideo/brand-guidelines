@@ -57,12 +57,12 @@ Divine is a decentralized short-form video app reviving Vine's 6-second format, 
 
 ## Key Messages
 
-- **Welcome Home**: our arrival greeting for people coming to diVine or returning to it. It signals inclusion, belonging, and a human place to land on the internet.
+- **Welcome Home**: our arrival greeting for people coming to Divine or returning to it. It signals inclusion, belonging, and a human place to land on the internet.
 - **No AI slop**: Human-made content only. We detect and remove machine-generated content.
 - **User ownership**: Your content, your data, your feed. Built on Nostr where you own everything.
 - **Joy scrolling**: Trade doom scrolling for delight. Quick bursts of real human creativity.
 - **Community-built**: Open source, decentralized, built with and for the community.
-- **Vine nostalgia**: 100,000+ archived Vines brought back to life. The golden days of the internet, reimagined.
+- **Vine nostalgia**: 2.1 million archived Vines brought back to life. The golden days of the internet, reimagined.
 
 ---
 
