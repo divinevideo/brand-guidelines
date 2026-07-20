@@ -14,6 +14,21 @@ We are building a movement to brighten the world.
 
 ---
 
+## Primary Tagline
+
+**Joyscrolling**
+
+Joyscrolling is Divine's primary tagline and the shortest expression of the
+experience we are building: quick bursts of real human creativity that leave
+people lighter, not drained. Write it as one word, with a capital J when it
+stands alone as the tagline.
+
+"Welcome Home" is our arrival greeting. "Life in Loops" may support a
+deliberately loop-focused campaign, but it is not a primary tagline and should
+never compete with or replace Joyscrolling in the brand hierarchy.
+
+---
+
 ## Brand Manifesto
 
 People remember Vine as the golden days of the Internet. Back when you could laugh with millions of people at the same stupid, six-second burst of brilliance. Before all-powerful algorithms decided what we see.
@@ -22,7 +37,7 @@ Then social media grew darker. It got hateful and heavier. It learned how to div
 
 At Divine, we say: fuck that.
 
-We want you to own what you make. Choose what you see. Trade doom scrolling for joy scrolling. Trade keyboard wars for a playground of human creativity. Crack the algorithm open and make it work for you. Bring your weird unfiltered self. Chances are you'll find someone just like you. Together, we'll put the power of creativity back in human hands.
+We want you to own what you make. Choose what you see. Trade doomscrolling for Joyscrolling. Trade keyboard wars for a playground of human creativity. Crack the algorithm open and make it work for you. Bring your weird unfiltered self. Chances are you'll find someone just like you. Together, we'll put the power of creativity back in human hands.
 When people arrive, we want the feeling to be simple: Welcome Home.
 
 ---
@@ -101,7 +116,7 @@ Expressive, Bold, Raw, Community-First, Principled
 
 ## Community Mindsets
 
-### Users: "Joy Scrollers"
+### Users: "Joyscrollers"
 
 - **Drawn to human moments**: Pulled toward content that feels unpolished and genuine -- small spontaneous flashes of real people being themselves
 - **Looking for lightness**: They want quick bursts of delight and provocation that cut through the weight of their feed and day
@@ -135,6 +150,6 @@ Expressive, Bold, Raw, Community-First, Principled
 | Dimension | Element | Description |
 |-----------|---------|-------------|
 | **Why** (Purpose) | Creative power belongs in human hands | Make decisions, motivate employees, shape reputation |
-| **Who** (Community) | Joy Scrollers, Self-Directed Creatives, Principled Challengers | Understand our users and what they need |
+| **Who** (Community) | Joyscrollers, Self-Directed Creatives, Principled Challengers | Understand our users and what they need |
 | **What** (Value Prop) | Your playground for human creativity and connection | Deliver experiences that answer community needs |
 | **How** (Archetype) | The Playful Rebel | Show up visually and verbally in a way that's true to us |
