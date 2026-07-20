@@ -116,7 +116,7 @@ Expressive, Bold, Raw, Community-First, Principled
 
 ## Community Mindsets
 
-### Users: "Joy Scrollers"
+### Users: "Joyscrollers"
 
 - **Drawn to human moments**: Pulled toward content that feels unpolished and genuine -- small spontaneous flashes of real people being themselves
 - **Looking for lightness**: They want quick bursts of delight and provocation that cut through the weight of their feed and day
@@ -150,6 +150,6 @@ Expressive, Bold, Raw, Community-First, Principled
 | Dimension | Element | Description |
 |-----------|---------|-------------|
 | **Why** (Purpose) | Creative power belongs in human hands | Make decisions, motivate employees, shape reputation |
-| **Who** (Community) | Joy Scrollers, Self-Directed Creatives, Principled Challengers | Understand our users and what they need |
+| **Who** (Community) | Joyscrollers, Self-Directed Creatives, Principled Challengers | Understand our users and what they need |
 | **What** (Value Prop) | Your playground for human creativity and connection | Deliver experiences that answer community needs |
 | **How** (Archetype) | The Playful Rebel | Show up visually and verbally in a way that's true to us |

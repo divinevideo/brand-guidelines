@@ -104,7 +104,7 @@ Secondary accent colors: Yellow `#FFF140`, Lime `#D2FF40`, Pink `#FF7FAF`, Orang
 
 | Audience | Mindset Name | Core Need |
 |----------|-------------|-----------|
-| Users | Joy Scrollers | Lightness, control, human moments |
+| Users | Joyscrollers | Lightness, control, human moments |
 | Creators | Self-Directed Creatives | Freedom, ownership, no algorithm games |
 | Brands/Builders | Principled Challengers | Values-driven, experimental, participatory |
 
