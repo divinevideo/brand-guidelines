@@ -30,7 +30,7 @@ Always write the brand name as **Divine** — capital D, lowercase rest. Do **no
 
 The Markdown guidance was originally translated from:
 - `Divine-Brand_Guidelines_2026.pdf` (visual identity, 53 pages)
-- `divine-brand.pdf` (brand DNA & tone of voice, 41 pages)
+- `divine-brand.pdf` (brand DNA & tone of voice, 42 pages)
 - [about.divine.video](https://about.divine.video) (official story, mission, and archive provenance)
 
 The PDFs are retained as historical source artifacts. Where they differ from
