@@ -14,18 +14,20 @@ We are building a movement to brighten the world.
 
 ---
 
-## Primary Tagline
+## Tagline
 
 **Joyscrolling**
 
-Joyscrolling is Divine's primary tagline and the shortest expression of the
+Joyscrolling is Divine's tagline and the shortest expression of the
 experience we are building: quick bursts of real human creativity that leave
 people lighter, not drained. Write it as one word, with a capital J when it
 stands alone as the tagline.
 
-"Welcome Home" is our arrival greeting. "Life in Loops" may support a
-deliberately loop-focused campaign, but it is not a primary tagline and should
-never compete with or replace Joyscrolling in the brand hierarchy.
+"Welcome Home" is our arrival greeting. Nothing shares the tagline slot with
+Joyscrolling. "Life in Loops" is retired: it names the format rather than what
+the format is for, and the loop was always the means, never the promise.
+"Live, Love, Loop" is retired too: it scans as "Live, Laugh, Love", exactly the
+mass-produced sentiment Divine exists to be the opposite of.
 
 ---
 

@@ -167,3 +167,5 @@ The visual identity extends to:
 - Digital ads (mixed formats)
 - Website / landing pages
 - App Store presence
+
+The application mockups in `Divine-Brand_Guidelines_2026.pdf` (pages 48, 50, and 51) are headlined with the retired loop taglines. Use them for layout, type, and color only, and take headline copy from the Tagline section of [BRAND_DNA.md](BRAND_DNA.md).
