@@ -113,7 +113,6 @@ Secondary accent colors: Yellow `#FFF140`, Lime `#D2FF40`, Pink `#FF7FAF`, Orang
 
 - **Primary tagline:** "Joyscrolling"
 - **Arrival greeting:** "Welcome Home"
-- "Live, Love, Loop"
 - "Your playground for human creativity"
 - "No slop. All human."
 - "Joyscrolling > doomscrolling"
@@ -128,3 +127,5 @@ Secondary accent colors: Yellow `#FFF140`, Lime `#D2FF40`, Pink `#FF7FAF`, Orang
 - Anything that sounds like a VC pitch deck
 - "Life in Loops" -- retired. It describes the format instead of the feeling, and
   the format is not the point. Use Joyscrolling.
+- "Live, Love, Loop" -- retired. It scans as "Live, Laugh, Love", which is
+  exactly the mass-produced sentiment Divine exists to be the opposite of.
