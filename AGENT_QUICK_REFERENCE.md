@@ -30,8 +30,8 @@ Write it as one word, with a capital J when it stands alone as the tagline. This
 is Divine's primary tagline and should lead brand campaigns, store copy, social
 copy, and product storytelling whenever a tagline is needed.
 
-"Welcome Home" remains Divine's arrival greeting. Nothing else competes for the
-tagline slot: when a tagline is needed, it is Joyscrolling.
+"Welcome Home" remains Divine's arrival greeting, not a tagline. Nothing
+competes with Joyscrolling for the tagline slot.
 
 ## Brand Archetype
 
