@@ -30,9 +30,8 @@ Write it as one word, with a capital J when it stands alone as the tagline. This
 is Divine's primary tagline and should lead brand campaigns, store copy, social
 copy, and product storytelling whenever a tagline is needed.
 
-"Welcome Home" remains Divine's arrival greeting. "Life in Loops" is secondary
-campaign language for deliberately loop-focused moments, not a default tagline
-or an alternative to Joyscrolling.
+"Welcome Home" remains Divine's arrival greeting. Nothing else competes for the
+tagline slot: when a tagline is needed, it is Joyscrolling.
 
 ## Brand Archetype
 
@@ -114,7 +113,6 @@ Secondary accent colors: Yellow `#FFF140`, Lime `#D2FF40`, Pink `#FF7FAF`, Orang
 
 - **Primary tagline:** "Joyscrolling"
 - **Arrival greeting:** "Welcome Home"
-- **Secondary campaign language:** "Life in Loops" -- use only when the creative idea is specifically about looping video; never present it as Divine's primary tagline
 - "Live, Love, Loop"
 - "Your playground for human creativity"
 - "No slop. All human."
@@ -128,3 +126,5 @@ Secondary accent colors: Yellow `#FFF140`, Lime `#D2FF40`, Pink `#FF7FAF`, Orang
 - "Disrupting the social media landscape"
 - "Empowering users through innovation"
 - Anything that sounds like a VC pitch deck
+- "Life in Loops" -- retired. It describes the format instead of the feeling, and
+  the format is not the point. Use Joyscrolling.
