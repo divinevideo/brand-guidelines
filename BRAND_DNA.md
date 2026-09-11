@@ -14,11 +14,11 @@ We are building a movement to brighten the world.
 
 ---
 
-## Primary Tagline
+## Tagline
 
 **Joyscrolling**
 
-Joyscrolling is Divine's primary tagline and the shortest expression of the
+Joyscrolling is Divine's tagline and the shortest expression of the
 experience we are building: quick bursts of real human creativity that leave
 people lighter, not drained. Write it as one word, with a capital J when it
 stands alone as the tagline.

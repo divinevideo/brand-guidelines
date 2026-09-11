@@ -22,12 +22,12 @@ Divine is a decentralized short-form video app reviving Vine's 6-second format, 
 
 **Your playground for human creativity and connection -- in all its weird, wonderful, technicolor glory.**
 
-## Primary Tagline
+## Tagline
 
 **Joyscrolling**
 
 Write it as one word, with a capital J when it stands alone as the tagline. This
-is Divine's primary tagline and should lead brand campaigns, store copy, social
+is Divine's tagline and should lead brand campaigns, store copy, social
 copy, and product storytelling whenever a tagline is needed.
 
 "Welcome Home" remains Divine's arrival greeting, not a tagline. Nothing
@@ -71,7 +71,7 @@ competes with Joyscrolling for the tagline slot.
 - **Welcome Home**: our arrival greeting for people coming to Divine or returning to it. It signals inclusion, belonging, and a human place to land on the internet.
 - **No AI slop**: Human-made content only. We detect and remove machine-generated content.
 - **User ownership**: Your content, your data, your feed. Built on Nostr where you own everything.
-- **Joyscrolling**: Trade doomscrolling for delight. Quick bursts of real human creativity. This is the primary tagline and brand promise.
+- **Joyscrolling**: Trade doomscrolling for delight. Quick bursts of real human creativity. This is the tagline and brand promise.
 - **Community-built**: Open source, decentralized, built with and for the community.
 - **Vine nostalgia**: 2.1 million archived Vines brought back to life, preserved by ArchiveTeam and the Internet Archive. The golden days of the internet, reimagined.
 - **Independent project**: Divine has no affiliation with Vine or X/Twitter. It's a separate, open-source app on Nostr that gives archived Internet Archive videos a new home and enables new six-second creation. Keep this clear in external copy.
@@ -111,7 +111,7 @@ Secondary accent colors: Yellow `#FFF140`, Lime `#D2FF40`, Pink `#FF7FAF`, Orang
 
 ## Tagline And Supporting Phrases
 
-- **Primary tagline:** "Joyscrolling"
+- **Tagline:** "Joyscrolling"
 - **Arrival greeting:** "Welcome Home"
 - "Your playground for human creativity"
 - "No slop. All human."
