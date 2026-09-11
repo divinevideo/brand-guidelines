@@ -1,7 +1,7 @@
 # Divine Brand Guidelines
 
-Current brand guidance for Divine. The Markdown files supersede the archived
-January 2026 source PDFs where they differ.
+Current brand guidance for Divine. The Markdown files supersede the two
+archived source PDFs where they differ.
 
 ## Brand Name
 
