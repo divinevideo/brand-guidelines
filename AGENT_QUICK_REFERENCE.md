@@ -125,5 +125,5 @@ Secondary accent colors: Yellow `#FFF140`, Lime `#D2FF40`, Pink `#FF7FAF`, Orang
 - "Disrupting the social media landscape"
 - "Empowering users through innovation"
 - Anything that sounds like a VC pitch deck
-- "Life in Loops" -- retired. It describes the format instead of the feeling. Use Joyscrolling.
+- "Life in Loops" -- retired. It describes the format instead of the feeling. When a tagline is needed, use Joyscrolling.
 - "Live, Love, Loop" -- retired. It scans as "Live, Laugh, Love", which is exactly the mass-produced sentiment Divine exists to be the opposite of.
