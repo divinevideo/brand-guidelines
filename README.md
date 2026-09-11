@@ -33,4 +33,5 @@ The Markdown guidance was originally translated from:
 - `divine-brand.pdf` (brand DNA & tone of voice, 41 pages)
 - [about.divine.video](https://about.divine.video) (official story, mission, and archive provenance)
 
-The PDFs are retained as historical source artifacts, not current guidance.
+The PDFs are retained as historical source artifacts. Where they differ from
+the Markdown, the Markdown wins.
