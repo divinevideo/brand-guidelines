@@ -24,9 +24,9 @@ people lighter, not drained. Write it as one word, with a capital J when it
 stands alone as the tagline.
 
 "Welcome Home" is our arrival greeting. Nothing shares the tagline slot with
-Joyscrolling. "Life in Loop" and "Life in Loops" are retired and should not
-appear in campaign or product copy: they name the format rather than what the
-format is for, and the loop was always the means, never the promise.
+Joyscrolling. "Life in Loops" is retired and should not appear in campaign or
+product copy: it names the format rather than what the format is for, and the
+loop was always the means, never the promise.
 
 ---
 
