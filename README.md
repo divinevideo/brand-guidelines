@@ -1,6 +1,7 @@
 # Divine Brand Guidelines
 
-Brand guidelines for Divine, translated from the official brand PDFs (January 2026).
+Current brand guidance for Divine. The Markdown files supersede the two
+archived source PDFs where they differ.
 
 ## Brand Name
 
@@ -27,7 +28,12 @@ Always write the brand name as **Divine** — capital D, lowercase rest. Do **no
 
 ## Source
 
-Translated from:
+The Markdown guidance was originally translated from two source PDFs:
 - `Divine-Brand_Guidelines_2026.pdf` (visual identity, 53 pages)
-- `divine-brand.pdf` (brand DNA & tone of voice, 41 pages)
-- [about.divine.video](https://about.divine.video) (official story, mission, and archive provenance)
+- `divine-brand.pdf` (brand DNA & tone of voice, 42 pages)
+
+It was later expanded with the official story, mission, and archive
+provenance from [about.divine.video](https://about.divine.video).
+
+The PDFs are retained as historical source artifacts. Where they differ from
+the Markdown, the Markdown wins.
